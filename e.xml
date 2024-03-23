@@ -146562,6 +146562,48 @@
 	<programme channel="黑莓动画" start="20240324003300 +0800" stop="20240324005400 +0800">
 		<title lang="zh">01_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240324005400 +0800" stop="20240324011500 +0800">
+		<title lang="zh">02_一人之下第二季</title>
+	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20240324000000 +0800" stop="20240324020000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240324020000 +0800" stop="20240324040000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240324040000 +0800" stop="20240324060000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240324060000 +0800" stop="20240324080000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240324080000 +0800" stop="20240324100100 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240324100100 +0800" stop="20240324120000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240324120000 +0800" stop="20240324140000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240324140000 +0800" stop="20240324160000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240324160000 +0800" stop="20240324190000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240324190000 +0800" stop="20240324200000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240324200000 +0800" stop="20240324220000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240324220000 +0800" stop="20240324235900 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -149469,6 +149511,9 @@
 	<programme channel="newtv超级体育" start="20240324000500 +0800" stop="20240324010500 +0800">
 		<title lang="zh">实况录像-2024年国际体联体操世界杯 巴库站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240324010500 +0800" stop="20240324023600 +0800">
+		<title lang="zh">实况录像-2024年世界室内田径锦标赛 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -149478,11 +149523,17 @@
 	<programme channel="newtv超级电影" start="20240324005000 +0800" stop="20240324005500 +0800">
 		<title lang="zh">光影星播客</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240324005500 +0800" stop="20240324022800 +0800">
+		<title lang="zh">守望相思树</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
 	<programme channel="newtv超级电视剧" start="20240324001600 +0800" stop="20240324010200 +0800">
 		<title lang="zh">01_新万家灯火</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240324010200 +0800" stop="20240324014700 +0800">
+		<title lang="zh">02_新万家灯火</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -149495,6 +149546,9 @@
 	</channel>
 	<programme channel="newtv精品纪录" start="20240324002100 +0800" stop="20240324005100 +0800">
 		<title lang="zh">第七集 大道无疆</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240324005100 +0800" stop="20240324012100 +0800">
+		<title lang="zh">第八集 大任担当</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
