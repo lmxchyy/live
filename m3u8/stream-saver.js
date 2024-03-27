@@ -257,6 +257,6 @@
   // 全局挂载 streamSaver 对象
   window.streamSaver = {
     createWriteStream, // 创建写流
-    middleTransporterUrl: 'https://live.diving.eu.org/m3u8/mitm.html',
+    middleTransporterUrl: 'https://live.beatit.top/m3u8/mitm.html',
   }
 })()
