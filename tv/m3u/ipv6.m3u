@@ -1,42 +1,58 @@
 #EXTM3U x-tvg-url="https://live.beatit.top/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.beatit.top/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-https://itv.lat/tv/live.php?&line=1&id=cctv1
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.beatit.top/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-https://itv.lat/tv/live.php?&line=1&id=cctv2
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv2hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.beatit.top/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-https://itv.lat/tv/live.php?&line=1&id=cctv3
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv38m/8000000
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.beatit.top/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://101.228.122.236:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv4hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.beatit.top/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-https://itv.lat/tv/live.php?&line=1&id=cctv5
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv58m/8000000
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.beatit.top/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://148.135.93.213:81/PLTV/bestv.php?id=cctv5phd8m/8000000
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.beatit.top/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-https://itv.lat/tv/live.php?&line=1&id=cctv6
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv6hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.beatit.top/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-https://itv.lat/tv/live.php?&line=1&id=cctv7
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv7hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.beatit.top/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-https://itv.lat/tv/live.php?&line=1&id=cctv8
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv8hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.beatit.top/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-https://itv.lat/tv/live.php?&line=1&id=cctv9
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv9hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.beatit.top/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-https://itv.lat/tv/live.php?&line=1&id=cctv10
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv10hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.beatit.top/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-https://itv.lat/tv/live.php?&line=1&id=cctv11
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv11hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.beatit.top/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-https://itv.lat/tv/live.php?&line=1&id=cctv12
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv12hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.beatit.top/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-https://itv.lat/tv/live.php?&line=1&id=cctv13
+rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.beatit.top/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-https://itv.lat/tv/live.php?&line=1&id=cctv14
+http://148.135.93.213:81/PLTV/bestv.php?id=cctvsehd8m/8000000
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.beatit.top/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-https://itv.lat/tv/live.php?&line=1&id=cctv15
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv15hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.beatit.top/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-https://itv.lat/tv/live.php?&line=1&id=cctv16
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv16hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.beatit.top/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-https://itv.lat/tv/live.php?&line=1&id=cctv17
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv17hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV16" tvg-logo="https://live.beatit.top/tv/CCTV16.png" group-title="央视频道",CCTV-16 4K
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.beatit.top/tv/CCTV17.png" group-title="央视频道",CCTV4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.beatit.top/tv/CGTN.png" group-title="央视频道",CGTN英语
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.beatit.top/tv/CGTN.png" group-title="央视频道",CGTN纪录
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.beatit.top/tv/CGTN西语.png" group-title="央视频道",CGTN西语
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.beatit.top/tv/CGTN法语.png" group-title="央视频道",CGTN法语
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.beatit.top/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.beatit.top/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.beatit.top/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://148.135.93.213:81/PLTV/bestv.php?id=bjwshd8m/8000000
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.beatit.top/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
