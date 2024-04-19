@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://live.beatit.top/e.xml"
+#EXTM3U x-tvg-url="https://live.beatit.top/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.beatit.top/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.beatit.top/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -145,7 +145,7 @@ https://tv.iill.top/4k/cctv8k
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.beatit.top/tv/CCTV5.png" group-title="体育频道",CCTV-5+ 体育赛事
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 radio="true" tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.beatit.top/tv/五星体育.png" group-title="体育频道",五星体育
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.beatit.top/tv/五星体育.png" group-title="体育频道",五星体育
 https://cdn2.jdshipin.com/api/bst2.php?id=wxtyhd8m/8000000
 #EXTINF:-1 tvg-id="newtv辽宁体育" tvg-name="newtv辽宁体育" tvg-logo="https://live.beatit.top/tv/NEWTV辽宁体育.jpg" group-title="体育频道",辽宁体育
 http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
