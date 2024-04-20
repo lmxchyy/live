@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<head>
+<title>M3U转TXT格式</title>
+
+</head>
+<body>
+<h1>请输入M3U8：</h1>
+<form method="post" action="">
+<textarea name="m3uContent" rows="10" cols="100%" placeholder="这里输入M3U8内容
+"></textarea><br>
+<input type="submit" value="一键转换">
+</form>
+<?php
+header('Content-Type: text/html; charset=utf-8');
+// 检查是否是通过POST方法提交的表单
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+// 获取表单中的m3uContent字段的值
+$m3uContent = $_POST['m3uContent'];
+
+// 将M3U8内容按行分割成数组
+$lines = explode("\n", $m3uContent);
+$output = '';
+
+$channelName = '';
+foreach ($lines as $line) {
+// 去除行首尾的空格
+$line = trim($line);
+// 如果行内容为"#EXTM3U"，则跳过该行
+if ($line === '#EXTM3U') {
+continue;
+}
+// 如果行内容以"#EXTINF"开头，则提取频道名称
+if (preg_match('/#EXTINF:.*,(.*)/', $line, $matches)) {
+$channelName = $matches[1];
+
+
+
+} else {
+// 如果行内容不为空，则将频道名称和链接拼接成一行，并添加到输出字符串中
+if (!empty($line)) {
+$output .= $channelName . ',' . $line . "\n";
+}
+}
+}
+
+// 去除输出字符串首尾的空格
+$output = trim($output);
+
+// 输出转换后的TXT内容
+echo "<h2>转换 成TXT内容：</h2>";
+echo "<textarea rows='10' cols='100%'>$output</textarea>";
+}
+?>
+</body>
+</html>
