@@ -6,7 +6,7 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.beatit.top/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.beatit.top/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.beatit.top/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.beatit.top/tv/CCTV5.png" group-title="央视频道",CCTV-5+ 体育赛事
@@ -33,3 +33,15 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.beatit.top/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.beatit.top/tv/CCTV17.png" group-title="央视频道",CCTV4K 超高清
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.beatit.top/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.beatit.top/tv/CCTV17.png" group-title="超高清频道",CCTV4K 超高清
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://live.beatit.top/tv/cctv16.png" group-title="超高清频道",cctv16-4K频道
+https://tv.iill.top/4k/cctv16
+#EXTINF:-1 tvg-name="北京纪实科教8K" tvg-logo="https://live.beatit.top/tv/北京纪实科教8K.png" group-title="超高清频道",北京纪实科教8K
+http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://live.beatit.top/tv/cctv8k.png" group-title="超高清频道",cctv8k
+https://tv.iill.top/4k/cctv8k
