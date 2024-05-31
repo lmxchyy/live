@@ -145,8 +145,6 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.beatit.top/tv/五星体育.png" group-title="体育频道",五星体育
 https://cdn2.jdshipin.com/api/bst2.php?id=wxtyhd8m/8000000
-#EXTINF:-1 tvg-id="newtv辽宁体育" tvg-name="newtv辽宁体育" tvg-logo="https://live.beatit.top/tv/NEWTV辽宁体育.jpg" group-title="体育频道",辽宁体育
-http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.beatit.top/tv/广东体育.png" group-title="体育频道",广东体育
 
 #EXTINF:-1 tvg-name="伟来体育" tvg-logo="https://live.beatit.top/tv/伟来体育.png" group-title="体育频道",伟来体育
@@ -179,22 +177,6 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.beatit.top/tv/NEWTV超级电影.png" group-title="电影频道",超级电影
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-name="华语影院" tvg-logo="https://live.beatit.top/tv/华语影院.png" group-title="电影频道",华语影院
-http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
-#EXTINF:-1 tvg-name="星光影院" tvg-logo="https://live.beatit.top/tv/星光影院.png" group-title="电影频道",星光影院
-http://php.jdshipin.com:8880/bst.php?id=xgyy8m/8000000
-#EXTINF:-1 tvg-name="全球大片" tvg-logo="https://live.beatit.top/tv/全球大片.png" group-title="电影频道",全球大片
-http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
-#EXTINF:-1 tvg-name="热门剧场" tvg-logo="https://live.beatit.top/tv/热门剧场.png" group-title="电影频道",热门剧场
-http://php.jdshipin.com:8880/bst.php?id=rmjc8m/8000000
-#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://live.beatit.top/tv/谍战剧场.png" group-title="电影频道",谍战剧场
-http://php.jdshipin.com:8880/bst.php?id=dzjc8m/8000000
-#EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://live.beatit.top/tv/青春动漫.png" group-title="电影频道",青春动漫
-http://php.jdshipin.com:8880/bst.php?id=qcdm8m/8000000
-#EXTINF:-1 tvg-name="宝宝动画" tvg-logo="https://live.beatit.top/tv/宝宝动画.png" group-title="电影频道",宝宝动画
-http://php.jdshipin.com:8880/bst.php?id=bbdh8m/8000000
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.beatit.top/tv/重温经典.png" group-title="电影频道",重温经典
-http://ipys.2288.org:8889/udp/228.1.1.44:6044
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://live.beatit.top/tv/浙江新闻.png" group-title="浙江频道",浙江公共新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.beatit.top/tv/浙江国际.png" group-title="浙江频道",浙江国际
@@ -257,18 +239,12 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.beatit.top/tv/河南梨园.png" group-title="数字频道",梨园频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-#EXTINF:-1 tvg-name="广东移动" tvg-logo="https://live.beatit.top/tv/广东移动.png" group-title="数字频道",广东移动
-http://php.jdshipin.com:8880/chudian.php?id=gdyd
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.beatit.top/tv/文物宝库.png" group-title="数字频道",文物宝库
 http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.beatit.top/tv/武术世界.png" group-title="数字频道",武术世界
 http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.beatit.top/tv/纪实人文.png" group-title="数字频道",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.beatit.top/tv/茶频道.png" group-title="数字频道",茶频道
-http://221.219.66.252:18888/rtp/239.3.1.165:8001
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.beatit.top/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
-http://221.219.66.252:18888/rtp/239.3.1.164:8001
 #EXTINF:-1 tvg-id="newtv辽宁体育" tvg-name="newtv辽宁体育" tvg-logo="https://live.beatit.top/tv/NEWTV辽宁体育.jpg" group-title="NewTV系列",辽宁体育
 http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-id="newtv超级电视剧" tvg-name="newtv超级电视剧" tvg-logo="https://live.beatit.top/tv/NEWTV超级电视剧.png" group-title="NewTV系列",超级电视剧
