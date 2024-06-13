@@ -6,7 +6,7 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.beatit.top/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.beatit.top/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.beatit.top/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.beatit.top/tv/CCTV5.png" group-title="央视频道",CCTV-5+ 体育赛事
@@ -62,7 +62,7 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/ind
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.beatit.top/tv/东南卫视.png" group-title="卫视频道",东南卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.beatit.top/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.beatit.top/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.beatit.top/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
@@ -70,13 +70,11 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.beatit.top/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.beatit.top/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.beatit.top/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.beatit.top/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.beatit.top/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.beatit.top/tv/天津卫视.png" group-title="卫视频道",天津卫视
 
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.beatit.top/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
@@ -90,7 +88,7 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.beatit.top/tv/山西卫视.png" group-title="卫视频道",山西卫视
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.beatit.top/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.beatit.top/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.beatit.top/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
@@ -100,7 +98,7 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.beatit.top/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.beatit.top/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.beatit.top/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.beatit.top/tv/河北卫视.png" group-title="卫视频道",河北卫视
@@ -108,11 +106,11 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.beatit.top/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.beatit.top/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.beatit.top/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.beatit.top/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.beatit.top/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.beatit.top/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
@@ -120,9 +118,9 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.beatit.top/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.beatit.top/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.beatit.top/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.beatit.top/tv/青海卫视.png" group-title="卫视频道",青海卫视
 http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.beatit.top/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
@@ -194,9 +192,9 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视 576" tvg-logo="https://live.beatit.top/tv/黑龙江卫视 576.png" group-title="黑龙江频道",黑龙江卫视 576
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江农业科教 576" tvg-logo="https://live.beatit.top/tv/黑龙江农业科教 576.png" group-title="黑龙江频道",黑龙江农业科教 576
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8黑龙江少儿 576
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江影视 576" tvg-logo="https://live.beatit.top/tv/黑龙江影视 576.png" group-title="黑龙江频道",黑龙江影视 576
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江文体 576" tvg-logo="https://live.beatit.top/tv/黑龙江文体 576.png" group-title="黑龙江频道",黑龙江文体 576
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻法治 576" tvg-logo="https://live.beatit.top/tv/黑龙江新闻法治 576.png" group-title="黑龙江频道",黑龙江新闻法治 576
@@ -204,29 +202,29 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="黑龙江都市 576" tvg-logo="https://live.beatit.top/tv/黑龙江都市 576.png" group-title="黑龙江频道",黑龙江都市 576
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
 #EXTINF:-1 tvg-name="伊春新闻综合 576" tvg-logo="https://live.beatit.top/tv/伊春新闻综合 576.png" group-title="黑龙江频道",伊春新闻综合 576
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
 #EXTINF:-1 tvg-name="双鸭山公共 576" tvg-logo="https://live.beatit.top/tv/双鸭山公共 576.png" group-title="黑龙江频道",双鸭山公共 576
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
 #EXTINF:-1 tvg-name="双鸭山新闻综合 576" tvg-logo="https://live.beatit.top/tv/双鸭山新闻综合 576.png" group-title="黑龙江频道",双鸭山新闻综合 576
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8
 #EXTINF:-1 tvg-name="大兴安岭新闻综合 576" tvg-logo="https://live.beatit.top/tv/大兴安岭新闻综合 576.png" group-title="黑龙江频道",大兴安岭新闻综合 576
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226499/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226499/index.m3u8
 #EXTINF:-1 tvg-name="大庆公共 576" tvg-logo="https://live.beatit.top/tv/大庆公共 576.png" group-title="黑龙江频道",大庆公共 576
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
 #EXTINF:-1 tvg-name="大庆新闻综合 576" tvg-logo="https://live.beatit.top/tv/大庆新闻综合 576.png" group-title="黑龙江频道",大庆新闻综合 576
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
 #EXTINF:-1 tvg-name="鸡西公共 576" tvg-logo="https://live.beatit.top/tv/鸡西公共 576.png" group-title="黑龙江频道",鸡西公共 576
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
 #EXTINF:-1 tvg-name="鸡西新闻综合 576" tvg-logo="https://live.beatit.top/tv/鸡西新闻综合 576.png" group-title="黑龙江频道",鸡西新闻综合 576
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
 #EXTINF:-1 tvg-name="鹤岗新闻综合 576" tvg-logo="https://live.beatit.top/tv/鹤岗新闻综合 576.png" group-title="黑龙江频道",鹤岗新闻综合 576
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226496/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226496/index.m3u8
 #EXTINF:-1 tvg-name="齐齐哈尔新闻综合 576" tvg-logo="https://live.beatit.top/tv/齐齐哈尔新闻综合 576.png" group-title="黑龙江频道",齐齐哈尔新闻综合 576
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
 #EXTINF:-1 tvg-name="齐齐哈尔经济法治 576" tvg-logo="https://live.beatit.top/tv/齐齐哈尔经济法治 576.png" group-title="黑龙江频道",齐齐哈尔经济法治 576
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
 #EXTINF:-1 tvg-name="未知新闻综合 576" tvg-logo="https://live.beatit.top/tv/未知新闻综合 576.png" group-title="黑龙江频道",未知新闻综合 576
-http://[2409:8087:1a0b:df::4020]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.beatit.top/tv/CETV1.png" group-title="数字频道",CETV-1
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.beatit.top/tv/CETV2.png" group-title="数字频道",CETV-2
