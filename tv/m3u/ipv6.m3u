@@ -138,7 +138,7 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.beatit.top/tv/五星体育.png" group-title="体育频道",五星体育
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.beatit.top/tv/五星体育.png" group-title="体育频道",五星体育
-https://cdn2.jdshipin.com/api/bst2.php?id=wxtyhd8m/8000000
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.beatit.top/tv/广东体育.png" group-title="体育频道",广东体育
 
 #EXTINF:-1 tvg-name="伟来体育" tvg-logo="https://live.beatit.top/tv/伟来体育.png" group-title="体育频道",伟来体育
