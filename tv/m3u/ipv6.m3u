@@ -52,9 +52,9 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.beatit.top/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.beatit.top/tv/凤凰资讯.png" group-title="卫视频道",凤凰资讯
-http://103.95.24.37:880/fhzx.m3u8
+http://43.141.130.51/bst.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.beatit.top/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
-http://103.95.24.37:880/fhxgt.m3u8
+http://43.141.130.51/bst.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.beatit.top/tv/香港卫视.png" group-title="卫视频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.beatit.top/tv/香港卫视.png" group-title="卫视频道",香港卫视
@@ -169,6 +169,17 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.beatit.top/tv/NEWTV超级电影.png" group-title="电影频道",超级电影
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.beatit.top/tv/NEWTV超级电影.png" group-title="电影频道",超级电影
+http://159.75.85.63:35455/douyu/4246519
+#EXTINF:-1 tvg-name="平泉影视频道" tvg-logo="https://live.beatit.top/tv/平泉影视频道.png" group-title="电影频道",平泉影视频道
+https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.beatit.top/tv/邵氏影院.png" group-title="电影频道",邵氏影院
+http://159.75.85.63:35455/douyu/4246519
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.beatit.top/tv/重温经典.png" group-title="电影频道",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+
+
+
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://live.beatit.top/tv/浙江新闻.png" group-title="浙江频道",浙江公共新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.beatit.top/tv/浙江国际.png" group-title="浙江频道",浙江国际
