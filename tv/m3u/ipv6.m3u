@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://live.beatit.top/e.xml"
+#EXTM3U x-tvg-url="https://live.beatit.top/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.beatit.top/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.beatit.top/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -35,8 +35,6 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.beatit.top/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.beatit.top/tv/CCTV17.png" group-title="央视频道",CCTV4K 超高清
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.beatit.top/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.beatit.top/tv/CGTN.png" group-title="央视频道",CGTN英语
