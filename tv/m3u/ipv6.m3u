@@ -35,8 +35,16 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.beatit.top/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.beatit.top/tv/CCTV17.png" group-title="央视频道",CCTV4K 超高清
+https://pi.0472.org/livetv/cctv4k.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.beatit.top/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.beatit.top/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
+https://pi.0472.org/chc/ym.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.beatit.top/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
+https://pi.0472.org/chc/dz.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.beatit.top/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
+https://pi.0472.org/chc/jt.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.beatit.top/tv/CGTN.png" group-title="央视频道",CGTN英语
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.beatit.top/tv/CGTN.png" group-title="央视频道",CGTN纪录
@@ -155,6 +163,12 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.beatit.top/tv/CCTV14.png" group-title="儿少频道",CCTV-14 少儿
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.beatit.top/tv/CHC高清电影.png" group-title="电影频道",CHC高清电影
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.beatit.top/tv/CHC动作电影.png" group-title="电影频道",CHC动作电影
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.beatit.top/tv/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.beatit.top/tv/CCTV6.png" group-title="电影频道",CCTV-6 电影
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.beatit.top/tv/黑莓电影.png" group-title="电影频道",黑莓电影
