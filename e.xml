@@ -15078,6 +15078,9 @@
 	<programme channel="咪咕综合体育" start="20260524021500 +0800" stop="20260524024000 +0800">
 		<title lang="zh">欧陆足球版图-英超特辑</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260524024500 +0800" stop="20260524051000 +0800">
+		<title lang="zh">足球世界-25/26赛季西甲 第38轮 瓦伦西亚-巴塞罗那 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -45294,11 +45297,20 @@
 	<programme channel="newtv超级综艺" start="20260524015300 +0800" stop="20260524023800 +0800">
 		<title lang="zh">27_你比星光美丽</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260524023800 +0800" stop="20260524032400 +0800">
+		<title lang="zh">28_你比星光美丽</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260524032400 +0800" stop="20260524044700 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260524010500 +0800" stop="20260524023600 +0800">
 		<title lang="zh">实况录像-2025年世界田联钻石联赛 布鲁塞尔站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260524023600 +0800" stop="20260524040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 半决赛 1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -45308,6 +45320,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260524021800 +0800" stop="20260524032200 +0800">
 		<title lang="zh">加油！田大志</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260524032200 +0800" stop="20260524045700 +0800">
+		<title lang="zh">移城别恋</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -45320,6 +45335,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260524015200 +0800" stop="20260524023700 +0800">
 		<title lang="zh">35_林海雪原</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260524023700 +0800" stop="20260524032200 +0800">
+		<title lang="zh">36_林海雪原</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260524032200 +0800" stop="20260524040700 +0800">
+		<title lang="zh">37_林海雪原</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -45878,6 +45899,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260524015200 +0800" stop="20260524023700 +0800">
 		<title lang="zh">07_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260524023700 +0800" stop="20260524032300 +0800">
+		<title lang="zh">08_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260524032300 +0800" stop="20260524040900 +0800">
+		<title lang="zh">09_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
