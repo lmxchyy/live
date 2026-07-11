@@ -16452,6 +16452,12 @@
 	<programme channel="咪咕综合体育" start="20260712010500 +0800" stop="20260712024500 +0800">
 		<title lang="zh">全景世界杯-2026美加墨世界杯 1/4决赛 法国-摩洛哥</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260712024500 +0800" stop="20260712032500 +0800">
+		<title lang="zh">世界杯精华</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260712033000 +0800" stop="20260712033500 +0800">
+		<title lang="zh">世界杯观赛指南</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -49980,11 +49986,20 @@
 	<programme channel="newtv超级综艺" start="20260712020700 +0800" stop="20260712025500 +0800">
 		<title lang="zh">27_滤镜</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260712025500 +0800" stop="20260712034400 +0800">
+		<title lang="zh">28_滤镜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260712013500 +0800" stop="20260712030000 +0800">
 		<title lang="zh">实况录像-2026世界杯 1/4决赛 2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260712030000 +0800" stop="20260712033000 +0800">
+		<title lang="zh">燃动金杯-2026世界杯1/8决赛进球集锦</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260712033000 +0800" stop="20260712073000 +0800">
+		<title lang="zh">2026世界杯-1/4决赛(挪威-英格兰)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -49994,6 +50009,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260712013300 +0800" stop="20260712023600 +0800">
 		<title lang="zh">加油！田大志</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260712023600 +0800" stop="20260712040600 +0800">
+		<title lang="zh">落难神偷</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50009,6 +50027,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260712021800 +0800" stop="20260712030500 +0800">
 		<title lang="zh">02_淬火年代</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260712030500 +0800" stop="20260712035100 +0800">
+		<title lang="zh">03_淬火年代</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50570,6 +50591,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260712021700 +0800" stop="20260712030200 +0800">
 		<title lang="zh">18_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260712030200 +0800" stop="20260712033300 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
