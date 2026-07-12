@@ -41688,17 +41688,29 @@
 	<programme channel="newtv超级综艺" start="20260713022000 +0800" stop="20260713031000 +0800">
 		<title lang="zh">32_滤镜</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260713031000 +0800" stop="20260713035600 +0800">
+		<title lang="zh">01_安家</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260713003000 +0800" stop="20260713023500 +0800">
 		<title lang="zh">2026年温布尔登网球锦标赛-男单决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260713023500 +0800" stop="20260713030500 +0800">
+		<title lang="zh">燃动金杯-2026年世界杯小组赛第三轮进球集锦</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260713030500 +0800" stop="20260713043000 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛 巴黎站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
 	<programme channel="newtv超级电影" start="20260713010900 +0800" stop="20260713024600 +0800">
 		<title lang="zh">隐婚男女</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260713024600 +0800" stop="20260713041600 +0800">
+		<title lang="zh">唯一的受害者</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -41714,6 +41726,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260713022500 +0800" stop="20260713031100 +0800">
 		<title lang="zh">07_淬火年代</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260713031100 +0800" stop="20260713035700 +0800">
+		<title lang="zh">08_淬火年代</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -42272,6 +42287,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260713015100 +0800" stop="20260713023700 +0800">
 		<title lang="zh">22_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260713023700 +0800" stop="20260713032200 +0800">
+		<title lang="zh">23_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260713032200 +0800" stop="20260713035300 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
