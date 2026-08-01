@@ -50106,11 +50106,17 @@
 	<programme channel="newtv超级综艺" start="20260802022700 +0800" stop="20260802031300 +0800">
 		<title lang="zh">05_蓝盔特战队</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260802031300 +0800" stop="20260802040000 +0800">
+		<title lang="zh">06_蓝盔特战队</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260802010600 +0800" stop="20260802023600 +0800">
 		<title lang="zh">实况录像-2026世界杯 1/4决赛 挪威队-英格兰队</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260802023600 +0800" stop="20260802040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 半决赛 8</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -50120,6 +50126,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260802015000 +0800" stop="20260802033200 +0800">
 		<title lang="zh">足球少年</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260802033200 +0800" stop="20260802045900 +0800">
+		<title lang="zh">东北喜事之山炮扶上墙</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50135,6 +50144,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260802022200 +0800" stop="20260802030600 +0800">
 		<title lang="zh">16_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260802030600 +0800" stop="20260802035100 +0800">
+		<title lang="zh">17_三十而已</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50696,6 +50708,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260802023100 +0800" stop="20260802030100 +0800">
 		<title lang="zh">杏花村好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260802030100 +0800" stop="20260802034600 +0800">
+		<title lang="zh">23_密战无声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260802034600 +0800" stop="20260802043100 +0800">
+		<title lang="zh">24_密战无声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
