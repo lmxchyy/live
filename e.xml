@@ -17541,6 +17541,9 @@
 	<programme channel="咪咕足球" start="20260802192000 +0800" stop="20260802203000 +0800">
 		<title lang="zh">决胜时刻</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260802203000 +0800" stop="20260802203500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59577,6 +59580,9 @@
 	<programme channel="newtv超级综艺" start="20260802190300 +0800" stop="20260802202000 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260802202000 +0800" stop="20260802213700 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59679,6 +59685,9 @@
 	<programme channel="newtv超级电影" start="20260802185200 +0800" stop="20260802201500 +0800">
 		<title lang="zh">神兵特攻</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260802201500 +0800" stop="20260802211500 +0800">
+		<title lang="zh">超凡追击者</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59759,6 +59768,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260802192100 +0800" stop="20260802200800 +0800">
 		<title lang="zh">07_主角</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260802200800 +0800" stop="20260802205400 +0800">
+		<title lang="zh">08_主角</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60398,6 +60410,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260802191800 +0800" stop="20260802200300 +0800">
 		<title lang="zh">07_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260802200300 +0800" stop="20260802203300 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260802203300 +0800" stop="20260802211800 +0800">
+		<title lang="zh">08_欢颜</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
