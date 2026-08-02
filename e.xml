@@ -12852,11 +12852,17 @@
 	<programme channel="咪咕综合体育" start="20260803002000 +0800" stop="20260803011000 +0800">
 		<title lang="zh">纪录片拜仁慕尼黑：传奇背后 第四集</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260803011500 +0800" stop="20260803041000 +0800">
+		<title lang="zh">JCK觉城之夜N121期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20260803000500 +0800" stop="20260803013500 +0800">
 		<title lang="zh">2026FIBA女篮世界杯资格赛 波多黎各-美国</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260803013500 +0800" stop="20260803015000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -41727,6 +41733,9 @@
 	<programme channel="newtv超级综艺" start="20260803001100 +0800" stop="20260803005700 +0800">
 		<title lang="zh">08_蓝盔特战队</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260803005700 +0800" stop="20260803014400 +0800">
+		<title lang="zh">09_蓝盔特战队</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -41744,6 +41753,12 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20260803000100 +0800" stop="20260803004600 +0800">
 		<title lang="zh">18_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260803004600 +0800" stop="20260803013200 +0800">
+		<title lang="zh">19_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260803013200 +0800" stop="20260803021700 +0800">
+		<title lang="zh">20_三十而已</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -42296,6 +42311,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260803003700 +0800" stop="20260803012200 +0800">
 		<title lang="zh">26_密战无声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260803012200 +0800" stop="20260803015200 +0800">
+		<title lang="zh">杏花村好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
