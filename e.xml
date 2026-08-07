@@ -49992,11 +49992,17 @@
 	<programme channel="newtv超级综艺" start="20260808000900 +0800" stop="20260808005600 +0800">
 		<title lang="zh">04_骄阳似我</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260808005600 +0800" stop="20260808014100 +0800">
+		<title lang="zh">05_骄阳似我</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260808000000 +0800" stop="20260808010000 +0800">
 		<title lang="zh">2026年亚洲体操锦标赛-男子单项决赛1(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260808010000 +0800" stop="20260808023100 +0800">
+		<title lang="zh">实况录像-2026世界杯 1/16决赛 科特迪瓦队-挪威队</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -50004,11 +50010,17 @@
 	<programme channel="newtv超级电影" start="20260808000000 +0800" stop="20260808012200 +0800">
 		<title lang="zh">加油二师兄</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260808012200 +0800" stop="20260808023600 +0800">
+		<title lang="zh">暴走兄弟</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
 	<programme channel="newtv超级电视剧" start="20260808002200 +0800" stop="20260808010900 +0800">
 		<title lang="zh">43_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260808010900 +0800" stop="20260808015500 +0800">
+		<title lang="zh">01_蛮好的人生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50561,6 +50573,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260808001800 +0800" stop="20260808010200 +0800">
 		<title lang="zh">16_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260808010200 +0800" stop="20260808013200 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
