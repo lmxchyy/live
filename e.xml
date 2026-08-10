@@ -49809,11 +49809,17 @@
 	<programme channel="newtv超级综艺" start="20260811000000 +0800" stop="20260811004400 +0800">
 		<title lang="zh">22_骄阳似我</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260811004400 +0800" stop="20260811013000 +0800">
+		<title lang="zh">23_骄阳似我</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260811000500 +0800" stop="20260811010600 +0800">
 		<title lang="zh">实况录像-2026年世界击剑锦标赛 1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260811010600 +0800" stop="20260811023600 +0800">
+		<title lang="zh">实况录像-2026世界杯 1/8决赛 加拿大队-摩洛哥队</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -49826,6 +49832,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20260811001600 +0800" stop="20260811010100 +0800">
 		<title lang="zh">15_蛮好的人生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260811010100 +0800" stop="20260811014700 +0800">
+		<title lang="zh">16_蛮好的人生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50376,41 +50385,11 @@
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
-	<programme channel="newtv金牌综艺" start="20260811000000 +0800" stop="20260811020000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv金牌综艺" start="20260811002300 +0800" stop="20260811010700 +0800">
+		<title lang="zh">31_秋蝉</title>
 	</programme>
-	<programme channel="newtv金牌综艺" start="20260811020000 +0800" stop="20260811040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20260811060000 +0800" stop="20260811080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20260811080000 +0800" stop="20260811100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20260811100600 +0800" stop="20260811120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20260811120000 +0800" stop="20260811140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20260811140000 +0800" stop="20260811160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20260811160000 +0800" stop="20260811180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20260811180000 +0800" stop="20260811190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20260811190000 +0800" stop="20260811200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20260811200000 +0800" stop="20260811220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20260811220000 +0800" stop="20260811235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv金牌综艺" start="20260811010700 +0800" stop="20260811013700 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
