@@ -16164,6 +16164,9 @@
 	<programme channel="咪咕足球" start="20260816000500 +0800" stop="20260816013500 +0800">
 		<title lang="zh">2027男篮世界杯预选赛 美国-墨西哥</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260816013500 +0800" stop="20260816015000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50124,11 +50127,17 @@
 	<programme channel="newtv超级综艺" start="20260816003800 +0800" stop="20260816012400 +0800">
 		<title lang="zh">16_很想很想你</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260816012400 +0800" stop="20260816021000 +0800">
+		<title lang="zh">17_很想很想你</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260816000500 +0800" stop="20260816010600 +0800">
 		<title lang="zh">2026年亚洲体操锦标赛-女子单项决赛1(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260816010600 +0800" stop="20260816023600 +0800">
+		<title lang="zh">实况录像-2026世界杯 1/8决赛 美国队-比利时队</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -50141,6 +50150,12 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20260816001100 +0800" stop="20260816005800 +0800">
 		<title lang="zh">04_很想很想你</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260816005800 +0800" stop="20260816014600 +0800">
+		<title lang="zh">05_很想很想你</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260816014600 +0800" stop="20260816023300 +0800">
+		<title lang="zh">06_很想很想你</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50693,6 +50708,12 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260816002300 +0800" stop="20260816010900 +0800">
 		<title lang="zh">06_国家机密</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260816010900 +0800" stop="20260816013900 +0800">
+		<title lang="zh">杏花村好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260816013900 +0800" stop="20260816022500 +0800">
+		<title lang="zh">07_国家机密</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
