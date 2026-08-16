@@ -12891,6 +12891,12 @@
 	<programme channel="咪咕足球" start="20260817000500 +0800" stop="20260817013500 +0800">
 		<title lang="zh">2027男篮世界杯预选赛 第一阶段小组赛 中国-中国台北</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260817013500 +0800" stop="20260817015000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260817015000 +0800" stop="20260817021000 +0800">
+		<title lang="zh">荣耀之路</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -41466,6 +41472,9 @@
 	<programme channel="newtv超级综艺" start="20260817003100 +0800" stop="20260817011700 +0800">
 		<title lang="zh">22_很想很想你</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260817011700 +0800" stop="20260817020500 +0800">
+		<title lang="zh">23_很想很想你</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -41475,47 +41484,17 @@
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
-	<programme channel="newtv超级电影" start="20260817000000 +0800" stop="20260817020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260817020000 +0800" stop="20260817040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260817060000 +0800" stop="20260817080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260817080000 +0800" stop="20260817100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260817100600 +0800" stop="20260817120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260817120000 +0800" stop="20260817140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260817140000 +0800" stop="20260817160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260817160000 +0800" stop="20260817180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260817180000 +0800" stop="20260817190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260817190000 +0800" stop="20260817200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260817200000 +0800" stop="20260817220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260817220000 +0800" stop="20260817235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级电影" start="20260817013100 +0800" stop="20260817030000 +0800">
+		<title lang="zh">让我过过瘾</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
 	<programme channel="newtv超级电视剧" start="20260817002700 +0800" stop="20260817011400 +0800">
 		<title lang="zh">09_很想很想你</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260817011400 +0800" stop="20260817020100 +0800">
+		<title lang="zh">10_很想很想你</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -42068,6 +42047,12 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260817003000 +0800" stop="20260817011600 +0800">
 		<title lang="zh">11_国家机密</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260817011600 +0800" stop="20260817014600 +0800">
+		<title lang="zh">杏花村好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260817014600 +0800" stop="20260817023200 +0800">
+		<title lang="zh">12_国家机密</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
