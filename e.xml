@@ -16176,11 +16176,17 @@
 	<programme channel="咪咕综合体育" start="20260818003000 +0800" stop="20260818020000 +0800">
 		<title lang="zh">UFC格斗之夜283期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260818020000 +0800" stop="20260818020500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20260818000500 +0800" stop="20260818013500 +0800">
 		<title lang="zh">2027男篮世界杯预选赛 第一阶段小组赛 中国-日本</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260818015000 +0800" stop="20260818021000 +0800">
+		<title lang="zh">荣耀之路</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -49794,11 +49800,20 @@
 	<programme channel="newtv超级综艺" start="20260818001400 +0800" stop="20260818010100 +0800">
 		<title lang="zh">29_很想很想你</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260818010100 +0800" stop="20260818014600 +0800">
+		<title lang="zh">30_很想很想你</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260818014600 +0800" stop="20260818023300 +0800">
+		<title lang="zh">31_很想很想你</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260818001000 +0800" stop="20260818010600 +0800">
 		<title lang="zh">实况录像-2026年世界田联钻石联赛 多哈站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260818010600 +0800" stop="20260818023600 +0800">
+		<title lang="zh">实况录像-2026世界杯 1/8决赛 瑞士队-哥伦比亚队</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -49814,6 +49829,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260818005000 +0800" stop="20260818013700 +0800">
 		<title lang="zh">15_很想很想你</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260818013700 +0800" stop="20260818022400 +0800">
+		<title lang="zh">16_很想很想你</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50366,6 +50384,12 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260818003800 +0800" stop="20260818012300 +0800">
 		<title lang="zh">16_国家机密</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260818012300 +0800" stop="20260818015300 +0800">
+		<title lang="zh">杏花村好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260818015300 +0800" stop="20260818023900 +0800">
+		<title lang="zh">17_国家机密</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
