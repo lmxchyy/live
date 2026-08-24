@@ -14238,6 +14238,9 @@
 	<programme channel="咪咕综合体育" start="20260824220000 +0800" stop="20260824220500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260824220500 +0800" stop="20260824000000 +0800">
+		<title lang="zh">网球世界-2026澳大利亚网球公开赛 女单决赛 萨巴伦卡-莱巴金娜</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14309,6 +14312,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260824203500 +0800" stop="20260824221500 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第17轮 杭州经纬-山东蜜獾</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260824221500 +0800" stop="20260824222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260824222000 +0800" stop="20260824000000 +0800">
+		<title lang="zh">我爱女篮-25/26赛季季后赛 1/4决赛G1 四川蜀道远达-上海浦发银行</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50058,6 +50067,9 @@
 	<programme channel="newtv超级体育" start="20260824213000 +0800" stop="20260824223500 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260824223500 +0800" stop="20260824233500 +0800">
+		<title lang="zh">实况录像-2026年世界羽毛球锦标赛 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50204,6 +50216,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260824214600 +0800" stop="20260824223200 +0800">
 		<title lang="zh">32_情满九道弯</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260824223200 +0800" stop="20260824231700 +0800">
+		<title lang="zh">33_情满九道弯</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50855,6 +50870,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260824220100 +0800" stop="20260824223200 +0800">
 		<title lang="zh">肉苁蓉粉 仙草姬国药药材</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260824223200 +0800" stop="20260824231700 +0800">
+		<title lang="zh">38_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
